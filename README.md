@@ -13,6 +13,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github-readme-stats.vercel.app/api?username=CYX22222003&theme=blue-green&show_icons=true&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="Github General Stats" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=CYX22222003&theme=radical" />
-
 <img src="https://github-contributor-stats.vercel.app/api?username=CYX22222003&limit=5&theme=radical&combine_all_yearly_contributions=true" />
